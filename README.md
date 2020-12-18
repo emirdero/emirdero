@@ -1,6 +1,6 @@
 ### Hei, jeg er Emir aka "The Null Terminator" 😎
 
-- 🔭 Jeg studerer for øyeblikket dataingeniør på NTNU 
+- 🔭 Jeg studerer dataingeniør på NTNU 
 - 🌱 For øyeblikket lærer jeg Rust og pytorch
 - ⚡ Fun fact 1: Ctrl+f4 for gull effekt 
 - ⚡ Fun fact 2: Ctrl+Shift+T for å reversere
