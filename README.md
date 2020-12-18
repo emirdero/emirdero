@@ -1,8 +1,6 @@
 ### Hei, jeg er Emir aka "the null terminator" 😎
 
-![Profile views counter](https://komarev.com/ghpvc/?username=emirdero&&style=flat-square)  
-![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-- 🔭 Jobber studerer for øyeblikket på NTNU 
+- 🔭 Jeg studerer for øyeblikket dataingeniør på NTNU 
 - 🌱 For øyeblikket lærer jeg Rust og pytorch
 - ⚡ Fun fact: Alt+f4 for gull effekt 
 
