@@ -2,7 +2,7 @@
 
 - 🔭 Jeg studerer for øyeblikket dataingeniør på NTNU 
 - 🌱 For øyeblikket lærer jeg Rust og pytorch
-- ⚡ Fun fact 1: Alt+f4 for gull effekt 
+- ⚡ Fun fact 1: Ctrl+f4 for gull effekt 
 - ⚡ Fun fact 2: Ctrl+Shift+T for å reversere
 - ⚡ Fun fact 3: JSfuck er brainfuck i helt alminnelig javascript
 
