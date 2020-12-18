@@ -1,4 +1,4 @@
-### Hei, jeg er Emir aka "the null terminator" 😎
+### Hei, jeg er Emir aka "The Null Terminator" 😎
 
 - 🔭 Jeg studerer for øyeblikket dataingeniør på NTNU 
 - 🌱 For øyeblikket lærer jeg Rust og pytorch
